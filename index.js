@@ -152,3 +152,5 @@ async function hackMyPassword () {
 document.querySelector('#gen_start_btn').addEventListener('click', generatePassword);
 document.querySelector('#hack_start_btn').addEventListener('click', hackPassword);
 document.querySelector('#hack_my_pass_btn').addEventListener('click', hackMyPassword);
+
+// just changes
